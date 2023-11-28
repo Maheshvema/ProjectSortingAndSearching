@@ -1,0 +1,5 @@
+Rainbow student data
+Abhi,10A
+Ramesh,5C
+Pavani,10B
+Mahesh,9A
